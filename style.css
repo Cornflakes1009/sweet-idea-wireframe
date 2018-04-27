@@ -1,0 +1,36 @@
+#navbar-upper-spacing {
+    margin-top: -26px !important;
+}
+.less-bottom-margin {
+    margin-bottom: 0px !important;
+}
+
+#title-font {
+    font-family: 'Bonbon', cursive;
+    font-size:9rem;
+}
+.main-landing-page-color {
+    background-color: rgb(129,216,208);
+}
+h1 {
+    color: white;
+}
+.card-image {
+    max-width: 100%;
+    max-height: 100%;
+
+}
+.card-top-font {
+    /* color: rgb(129,216,208); */
+    color: rgb(233,143,197);
+    font-size: 30px;
+}
+.footer-content {
+    height: 90px;
+}
+.social-media-icons {
+    font-size: 40px;
+}
+.button-width {
+    min-width: 125px;
+}
